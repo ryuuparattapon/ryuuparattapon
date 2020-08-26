@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi ! 👋
 
+I am Parattapon Dandsinphan from Bangkok, Thailand ! 
 <!--
 **ryuuparattapon/ryuuparattapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
